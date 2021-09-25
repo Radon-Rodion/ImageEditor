@@ -1,0 +1,13 @@
+F:\Coding\C#\SPP_2\SPP_2\bin\Debug\SPP_2.exe.config
+F:\Coding\C#\SPP_2\SPP_2\bin\Debug\SPP_2.exe
+F:\Coding\C#\SPP_2\SPP_2\bin\Debug\SPP_2.pdb
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.Properties.Resources.resources
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.csproj.GenerateResource.cache
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.exe
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.pdb
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.Form1.resources
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.ScaleForm.resources
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.RotationForm.resources
+F:\Coding\C#\SPP_2\SPP_2\obj\Debug\SPP_2.ResizeForm.resources
